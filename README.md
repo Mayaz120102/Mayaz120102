@@ -1,4 +1,4 @@
-<img width="100%" src="https://img.freepik.com/free-vector/flat-horizontal-text-banner-with-nightmares-sleeping-people-grey-background-vector-illustration_1284-80164.jpg?ga=GA1.1.1423009850.1726589885&semt=ais_hybrid">
+<!-- <img width="100%" src="https://img.freepik.com/free-vector/flat-horizontal-text-banner-with-nightmares-sleeping-people-grey-background-vector-illustration_1284-80164.jpg?ga=GA1.1.1423009850.1726589885&semt=ais_hybrid"> -->
 <h1 align="center">Hi 👋, I'm Abrar Mayaz</h1>
 <h3>Im currently pursuing a Bachelor of Science in Engineering, majoring in Computer Science and Engineering (CSE) at International Islamic University Chittagong</h3>
 
