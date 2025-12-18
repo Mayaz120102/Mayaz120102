@@ -64,7 +64,7 @@ and learning modern **web & backend technologies**.
 
 ---
 
-## 📈 GitHub Analytics (Animated)
+## 📈 GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mayaz120102&show_icons=true&theme=radical" />
@@ -77,7 +77,7 @@ and learning modern **web & backend technologies**.
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayaz120102&theme=tokyonight" />
