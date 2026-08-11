@@ -23,7 +23,7 @@
 and learning modern **web & backend technologies**.
 
 - 🔥 Strong in **C / C++**
-- 🌱 Learning **Python, Django & Full-Stack Web**
+- 🌱 Learning **Python, Django, Fastpi & Full-Stack Web**
 - 🧠 Interested in **problem solving & system thinking**
 - 🎯 Goal: Industry-ready Software Engineer
 
@@ -46,8 +46,8 @@ and learning modern **web & backend technologies**.
 ## 🔥 What I’m Working On
 
 - 🧩 Competitive Programming (Codeforces,CodeChef,Leetcode)
-- 🌐 Web Projects using HTML, CSS, JS
-- ⚙️ Backend Development with Django
+- 🌐 Web Projects using HTML, CSS, JS, ReactJs
+- ⚙️ Backend Development with Fastapi
 - 📦 Real-life & university projects
 
 ---
@@ -56,6 +56,7 @@ and learning modern **web & backend technologies**.
 
 | 🚀 Project | 💡 Description |
 |----------|---------------|
+| **expense-tracker-api** | Fastapi |
 | **Product-tracking_backend** | Django REST Framework and JWT Authentication |
 | **AI based Job Portal** | Reactjs and Tailwindcss |
 | **http-proxy-server** | Cpp |
