@@ -23,7 +23,7 @@
 and learning modern **web & backend technologies**.
 
 - 🔥 Strong in **C / C++**
-- 🌱 Learning **Python, Django, Fastpi & Full-Stack Web**
+- 🌱 Learning **Python, Django, FastApi & Full-Stack Web**
 - 🧠 Interested in **problem solving & system thinking**
 - 🎯 Goal: Industry-ready Software Engineer
 
