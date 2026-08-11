@@ -38,7 +38,12 @@ and learning modern **web & backend technologies**.
 
 ### ⚙️ Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=django,tailwind,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,tailwind,git,github,vscode,linux" />
+</p
+
+### Library
+<p>
+  <img src="https://skillicons.dev/icons?i=react"/>
 </p>
 
 ---
@@ -56,6 +61,7 @@ and learning modern **web & backend technologies**.
 
 | 🚀 Project | 💡 Description |
 |----------|---------------|
+| **e-goru** | Express , ReactJs | | A vibe coding project knowing the basics | https://egoru-frontend.vercel.app |
 | **expense-tracker-api** | Fastapi |
 | **Product-tracking_backend** | Django REST Framework and JWT Authentication |
 | **AI based Job Portal** | Reactjs and Tailwindcss |
